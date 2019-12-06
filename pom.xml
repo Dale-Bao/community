@@ -76,6 +76,13 @@
                 </exclusion>
             </exclusions>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.mx/mx-utils -->
+        <dependency>
+            <groupId>org.mx</groupId>
+            <artifactId>mx-utils</artifactId>
+            <version>3.0.3</version>
+        </dependency>
+
     </dependencies>
 
     <build>
